@@ -27,6 +27,16 @@
     position: relative;
     height: 510px;
 }
+.service-box-tree-inside {
+    position: relative;
+    max-width: 400px; 
+    height: 260px;
+}
+/* .service-box-tree-inside {
+    position: relative;
+    max-width: 400px; 
+    height: 260px;
+} */
 .portfolio-box{
     width: 420px !important;
 }
