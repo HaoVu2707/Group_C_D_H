@@ -39,6 +39,7 @@
 } */
 .portfolio-box{
     width: 420px !important;
+   margin-top: 20px ;
 }
 .chitiet {
     bottom: 10px;
